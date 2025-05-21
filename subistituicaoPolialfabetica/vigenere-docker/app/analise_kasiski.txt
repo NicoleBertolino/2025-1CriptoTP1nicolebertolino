@@ -1,0 +1,6 @@
+Possíveis tamanhos de chave (método Kasiski):
+- 2 (frequência: 126)
+- 4 (frequência: 115)
+- 8 (frequência: 109)
+- 16 (frequência: 58)
+- 5 (frequência: 40)
